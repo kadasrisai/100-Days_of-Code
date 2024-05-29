@@ -6,7 +6,7 @@
 2.isEmpty()
 3.push()
 4.pop()
-5.top()'''
+5.top() '''
 
 
 class StacksArray:
